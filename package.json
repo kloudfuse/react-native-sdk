@@ -1,5 +1,5 @@
 {
-  "name": "react-native-sdk",
+  "name": "kf-react-native-sdk",
   "version": "0.1.0",
   "description": "Kloudfuse's react native sdk",
   "source": "./src/index.tsx",
